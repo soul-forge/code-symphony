@@ -1,0 +1,39 @@
+{
+  "name": "@soul-forge/code-symphony",
+  "version": "0.1.0",
+  "description": "🎼 Listen to your code breathe - Every function has a chord, every module a melody",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "symphony": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "demo": "ts-node src/demo.ts",
+    "play": "ts-node src/cli.ts"
+  },
+  "keywords": [
+    "code-sonification",
+    "protein-hash",
+    "eigenvalues",
+    "music",
+    "432hz",
+    "soul-forge"
+  ],
+  "author": "Soul Forge",
+  "license": "MIT",
+  "dependencies": {
+    "@soul-forge/protein-hash": "^0.1.1",
+    "tone": "^14.7.0",
+    "midi-writer-js": "^2.1.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
