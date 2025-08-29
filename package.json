@@ -1,6 +1,6 @@
 {
   "name": "@soul-forge/code-symphony",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "🎼 Listen to your code breathe - Every function has a chord, every module a melody",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
