@@ -6,7 +6,7 @@
  * Principle: «Beauty is consonance; ugliness is dissonance.»
  */
 
-import { ProteinHasher } from '@soul-forge/protein-hash';
+import { ProteinHasher } from '@s0fractal/protein-hash';
 
 // Base frequency: 432Hz (the universal resonance)
 const BASE_FREQ = 432;

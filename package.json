@@ -24,7 +24,7 @@
   "author": "Soul Forge",
   "license": "MIT",
   "dependencies": {
-    "@soul-forge/protein-hash": "^0.1.1",
+    "@s0fractal/protein-hash": "^0.1.1",
     "tone": "^14.7.0",
     "midi-writer-js": "^2.1.0",
     "chalk": "^4.1.2",
